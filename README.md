@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **abdukod1rov/abdukod1rov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![photo_2024-02-26_17-48-08](https://github.com/abdukod1rov/abdukod1rov/assets/71902177/0c57cf7b-c0ad-448e-94a8-891e31e32607)
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
